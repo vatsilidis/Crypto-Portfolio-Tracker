@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Crypto Portfolio Tracker
+
+## This project highlights wallet integration and basic blockchain interactions such as:
+
+- Connect to MetaMask wallet
+- Display wallet balances across different tokens
+
+## Future updates could be:
+
+- Show transaction history
+- Real-time price updates
+- Portfolio analytics
+
+This is a [Next.js](https://nextjs.org) based project.
 
 ## Getting Started
 
