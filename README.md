@@ -5,7 +5,7 @@
 - Connect to MetaMask wallet
 - Display wallet balances across different tokens
 
-## Future updates could be:
+## Future updates:
 
 - Show transaction history
 - Real-time price updates
